@@ -12,7 +12,7 @@ EXTENSIONS["idcBoutCookies"]+="fihnjjcciajhdojfnbdddfaoknhalnja"
 EXTENSIONS["violentMonkey"]+="jinjaccalgkegednnccohejagnlnfdag"
 
 
-EXTENSION_DIR="$HOME/Documents/chromium-extensions"
+EXTENSION_DIR="$HOME/.local/share/chromium-extensions"
 if [ ! -d "$EXTENSION_DIR" ]; then
     mkdir -p "$EXTENSION_DIR"
 fi
